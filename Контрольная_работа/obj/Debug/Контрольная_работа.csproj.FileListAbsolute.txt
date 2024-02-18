@@ -1,0 +1,7 @@
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Новая папка\Контрольная_работа\Контрольная_работа\bin\Debug\Контрольная_работа.exe.config
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Новая папка\Контрольная_работа\Контрольная_работа\bin\Debug\Контрольная_работа.exe
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Новая папка\Контрольная_работа\Контрольная_работа\bin\Debug\Контрольная_работа.pdb
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Новая папка\Контрольная_работа\Контрольная_работа\obj\Debug\Контрольная_работа.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Новая папка\Контрольная_работа\Контрольная_работа\obj\Debug\Контрольная_работа.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Новая папка\Контрольная_работа\Контрольная_работа\obj\Debug\Контрольная_работа.exe
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Новая папка\Контрольная_работа\Контрольная_работа\obj\Debug\Контрольная_работа.pdb
